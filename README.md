@@ -1,8 +1,8 @@
-- 👋 Hi, I’m KaiFutaba
+- 👋 Hi, I’m KaiMizu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me https://instagram.com/el.fvhri
+- 📫 How to reach me https://instagram.com/kzk4ai
 
 <!---
 KaiFutaba/KaiFutaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
